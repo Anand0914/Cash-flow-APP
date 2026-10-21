@@ -1,0 +1,8 @@
+{
+  "name": "CashFlow — Cash Advance & Expense Management",
+  "description": "Cash advance, expense tracking, advance settlement, and reconciliation application with Google Sheets and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
